@@ -1,5 +1,6 @@
-# astrodg
-> 不要大力拍打或滑动哦~
+![AstroDG Logo](https://file.mtxtf.com/pic/AstroDG.png)
+# AstroDG
+> :zap:请不要大力拍打或滑动哦~
 
 一个可以使用astrodx控制郊狼3.0的项目[WIP]  
 (太菜了可能要很久😢
